@@ -12,6 +12,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNetCoreForms.Demo", "src\AspNetCoreForms.Demo\AspNetCoreForms.Demo.xproj", "{D4522D99-D54B-4217-B92F-860EFEC321E4}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AspNetCoreForms", "src\AspNetCoreForms\AspNetCoreForms.xproj", "{405A97CC-4DAF-4186-ACE8-31CBA4F63D17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -22,11 +24,16 @@ Global
 		{D4522D99-D54B-4217-B92F-860EFEC321E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4522D99-D54B-4217-B92F-860EFEC321E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4522D99-D54B-4217-B92F-860EFEC321E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{405A97CC-4DAF-4186-ACE8-31CBA4F63D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405A97CC-4DAF-4186-ACE8-31CBA4F63D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405A97CC-4DAF-4186-ACE8-31CBA4F63D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405A97CC-4DAF-4186-ACE8-31CBA4F63D17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D4522D99-D54B-4217-B92F-860EFEC321E4} = {BCC42B16-91FA-4284-9D9B-D7F64BAE89C4}
+		{405A97CC-4DAF-4186-ACE8-31CBA4F63D17} = {BCC42B16-91FA-4284-9D9B-D7F64BAE89C4}
 	EndGlobalSection
 EndGlobal

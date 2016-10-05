@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0-*",
+
+    "dependencies": {
+        "Microsoft.AspNetCore.Razor.Runtime": "1.1.0-alpha1-21521",
+        "NETStandard.Library": "1.6.0"
+    },
+
+    "frameworks": {
+        "net452": {}
+    }
+}
