@@ -8,7 +8,7 @@ Once you add the Tag Helper you can decorate your HTML elements to your heart's 
 
 ```html
 <body runat="server">
-    <h1>Isn't this awesome?</h1>
+    <h1>Isn't this awesome?</h1> <!-- hint: no -->
 </body>
 ```
 
